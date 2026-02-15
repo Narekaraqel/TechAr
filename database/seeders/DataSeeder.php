@@ -11,7 +11,7 @@ class DataSeeder extends Seeder{
         $user = User::first(); 
         if ($user) {
             Data::create([
-                'user_id' => "3",
+                'user_id' => "2",
                 'sensors_data' => [
                     'temp_main' => 31,
                     'temp_water' => 10,
