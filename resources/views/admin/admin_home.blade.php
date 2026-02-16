@@ -188,7 +188,7 @@ body{
 }
 
 .input{
-  width:100%;
+  width:80%;
   padding: 11px 12px;
   border-radius: 12px;
   border: 1px solid rgba(255,255,255,.14);
